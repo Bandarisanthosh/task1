@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(38, 131, 167);
+    background-image: -moz-linear-gradient();
+}
+figure {
+    float:left;
+    width:200px;
+}
+img {
+    width: 200px;
+   
+}
+fieldset{
+    width: 100px;
+}
+figcaption {
+    color:black;
+    font-size: 17px;
+    text-align: center;
+}
+button{
+    font-size: 20px;
+    border: transparent;
+    width: fit-content;
+    background-color: rgb(173, 218, 173);
+    border-radius: 40px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+button:hover {
+    cursor: pointer;
+}
+input{
+    border-radius: 5px 5px 5px 5px;
+}
+
+
+
+
+
+
